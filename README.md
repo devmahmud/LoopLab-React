@@ -2,7 +2,7 @@
 
 LoopLAB is Simple React Site Using React, React Router DOM, Bootstrap, react-bootstrap, Fontawesome, react-fontawesome, Formik and Yup.
 
-### Demo of this site available here [LoopLAB Demo](https://looplab.netlify.com)
+### Demo of this site available here [LoopLAB Demo](https://looplabreact.netlify.com)
 
 #### To install dependency
 
